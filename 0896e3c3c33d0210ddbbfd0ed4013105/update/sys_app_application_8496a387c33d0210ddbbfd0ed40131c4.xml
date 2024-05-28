@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Loaner Vehicle Request and Inventory</name>
+        <order/>
+        <roles>lva_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-01 04:46:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8496a387c33d0210ddbbfd0ed40131c4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loaner Vehicle Request and Inventory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1138917_lva">0896e3c3c33d0210ddbbfd0ed4013105</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0896e3c3c33d0210ddbbfd0ed4013105</sys_scope>
+        <sys_update_name>sys_app_application_8496a387c33d0210ddbbfd0ed40131c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-01 04:46:41</sys_updated_on>
+        <title>Loaner Vehicle Request and Inventory</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

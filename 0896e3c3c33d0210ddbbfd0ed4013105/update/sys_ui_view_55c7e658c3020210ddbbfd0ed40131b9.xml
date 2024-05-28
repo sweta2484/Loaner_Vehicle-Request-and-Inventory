@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>related_lists</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-04 21:24:44</sys_created_on>
+        <sys_id>55c7e658c3020210ddbbfd0ed40131b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related lists</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1138917_lva">0896e3c3c33d0210ddbbfd0ed4013105</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0896e3c3c33d0210ddbbfd0ed4013105</sys_scope>
+        <sys_update_name>sys_ui_view_55c7e658c3020210ddbbfd0ed40131b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-04 21:24:44</sys_updated_on>
+        <title>Related lists</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

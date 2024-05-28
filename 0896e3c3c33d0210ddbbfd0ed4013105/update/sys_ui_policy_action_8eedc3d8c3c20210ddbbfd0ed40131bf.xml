@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>return_notes</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-05 00:11:35</sys_created_on>
+        <sys_id>8eedc3d8c3c20210ddbbfd0ed40131bf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>return_notes</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1138917_lva">0896e3c3c33d0210ddbbfd0ed4013105</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0896e3c3c33d0210ddbbfd0ed4013105</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8eedc3d8c3c20210ddbbfd0ed40131bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-05 07:20:17</sys_updated_on>
+        <table>x_1138917_lva_vehicle_tracker</table>
+        <ui_policy display_value="Requires input on return details when vehicle status is 'Returned for Inspection', making key fields mandatory and editable">010b4794c3c20210ddbbfd0ed4013127</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

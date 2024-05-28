@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dac7ebc7c33d0210ddbbfd0ed40131e3" label="Loaner Vehicle Catalog" max_length="40" name="x_1138917_lva_loaner_vehicle_catalog" type="collection">
+        <element label="Image" max_length="255" name="image" type="user_image"/>
+        <element label="Number" mandatory="true" max_length="255" name="number" type="integer"/>
+        <element choice="3" default="Avaialble" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Avaialble" sequence="0" value="Avaialble"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="Available"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="0" value="Maintenance"/>
+                <element inactive_on_update="false" label="Out on Field" sequence="0" value="Out on Field"/>
+                <element inactive_on_update="false" label="Unavailable" sequence="1" value="Unavailable"/>
+                <element inactive_on_update="false" label="Decommissioned" sequence="2" value="Decommissioned"/>
+            </choice>
+        </element>
+        <element label="Vehicle Description" mandatory="true" max_length="40" name="vehicle_description" type="string"/>
+        <element label="Vehicle Make" mandatory="true" max_length="40" name="vehicle_make" type="string"/>
+        <element label="Vehicle Model " mandatory="true" max_length="40" name="vehicle_model" type="string"/>
+        <element label="Vehicle Year " mandatory="true" max_length="40" name="vehicle_year" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1138917_lva_vehicle_tracker" version="2" view="related_lists">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Vehicle Tracker - Related lists" name="x_1138917_lva_vehicle_tracker" related_list="NULL" sys_domain="global" view="55c7e658c3020210ddbbfd0ed40131b9">fe52b2d8c3420210ddbbfd0ed4013155</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_1138917_lva_vehicle_servicing.vehicle_tracker</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-04 22:10:59</sys_created_on>
+            <sys_id>3252b2d8c3420210ddbbfd0ed4013157</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-04 22:10:59</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Vehicle Tracker - Related lists</calculated_name>
+            <filter/>
+            <name>x_1138917_lva_vehicle_tracker</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-04 22:10:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe52b2d8c3420210ddbbfd0ed4013155</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Vehicle Tracker - Related lists</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1138917_lva">0896e3c3c33d0210ddbbfd0ed4013105</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">0896e3c3c33d0210ddbbfd0ed4013105</sys_scope>
+            <sys_update_name>sys_ui_related_x_1138917_lva_vehicle_tracker_related_lists</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-04 22:10:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Related lists" name="related_lists">55c7e658c3020210ddbbfd0ed40131b9</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
